@@ -1,0 +1,14 @@
+{
+    "email": "E-Mail",
+    "appLanguage": "Langue de l'application",
+    "darkMode": "Mode sombre",
+    "notAvailable": "Non disponible",
+    "microphonePermissionRequired": "Autorisation de microphone requise",
+    "grantMicrophonePermission": "Veuillez accorder l'autorisation du microphone pour enregistrer l'audio.",
+    "openSettings": "Ouvrir les paramètres",
+    "cancel": "Annuler",
+    "english": "Anglais",
+    "german": "Allemand",
+    "french": "Français",
+    "spanish": "Espagnol"
+  }

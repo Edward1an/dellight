@@ -1,0 +1,14 @@
+{
+    "email": "E-Mail",
+    "appLanguage": "App-Sprache",
+    "darkMode": "Dunkler Modus",
+    "notAvailable": "Nicht verfügbar",
+    "microphonePermissionRequired": "Mikrofonberechtigung erforderlich",
+    "grantMicrophonePermission": "Bitte erteilen Sie die Mikrofonberechtigung, um Audio aufzunehmen.",
+    "openSettings": "Einstellungen öffnen",
+    "cancel": "Abbrechen",
+    "english": "Englisch",
+    "german": "Deutsch",
+    "french": "Französisch",
+    "spanish": "Spanisch"
+  }
